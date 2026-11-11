@@ -1,15 +1,15 @@
 # Moeed Ahmad — Portfolio
 
-Static portfolio for GitHub Pages, including projects, experience, portrait, dark mode, and contact options.
+Live site: https://xxmoeedxx.github.io/
 
-## Publishing
+Static portfolio featuring projects, experience, portrait, dark mode, and contact options.
 
-Use a public repository named `YOUR_USERNAME.github.io` for a site at `https://YOUR_USERNAME.github.io/`.
-In repository Settings → Pages, select GitHub Actions as the deployment source.
-Push to `main` to run the included deployment workflow.
+## Deployment
 
-No build or paid hosting is required. All portfolio contents, the portrait, resume, and alternate designs in this repository become public when published.
+GitHub Pages publishes directly from the root of the main branch. No build step, dependency installation, or paid hosting is required.
 
 ## Updating
 
-Edit index.html, style.css, app.js, or assets and push to main. The workflow publishes the updated site.
+Edit index.html, style.css, app.js, motion.css, motion.js, or assets and push to main. GitHub Pages automatically publishes updates.
+
+The repository includes the public resume, portrait, and contact information displayed on the website.
